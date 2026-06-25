@@ -17,8 +17,8 @@ Users should be able to:
 
 ## Links
 
-- Live Site: [Your Live URL Here]
-- Solution: [Your Frontend Mentor Solution URL Here]
+- Live Site: https://mathewjebis.github.io/four-card-feature-section/
+- Solution: https://www.frontendmentor.io/solutions/four-card-feature-section-using-css-grid-and-flexbox-uLlG2R2S6u
 
 ## Author
 
